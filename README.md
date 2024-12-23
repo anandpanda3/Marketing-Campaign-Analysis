@@ -1,7 +1,7 @@
 # Marketing Campaign Analysis
 
 ### Problem Statement
-Aditya Marketing is facing low response rates to their marketing campaigns. The objective of this project is to conduct thorough Exploratory Data Analysis, extracting insights through univariate and bivariate analysis. And Recommended strategic customer targeting tactics. 
+A Marketing company is facing low response rates to their marketing campaigns. The objective of this project is to conduct thorough Exploratory Data Analysis, extracting insights through univariate and bivariate analysis. And Recommended strategic customer targeting tactics. 
 
 To predict customer response to an offer for a specific product or service, enabling targeted marketing strategies and optimizing campaign effectiveness.
 
